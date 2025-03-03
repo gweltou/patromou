@@ -31,7 +31,8 @@
 		"url": "https://github.com/gweltou/patromou/raw/refs/heads/main/vosk-model-br-0.9.zip"
 	},
 	{
-		"name": "vosk-br-25.02",
+		"name": "vosk-model-br-25.02",
+		"short-name": "vosk-br-25.02",
 		"type": "vosk",
 		"version": 10,
 		"lang": "br",
