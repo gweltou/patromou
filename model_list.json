@@ -4,21 +4,24 @@
 		"type": "vosk",
 		"version": 6,
 		"lang": "br",
-		"url": "https://github.com/gweltou/patromou/raw/refs/heads/main/vosk-model-br-0.6.zip"
+		"url": "https://github.com/gweltou/patromou/raw/refs/heads/main/vosk-model-br-0.6.zip",
+		"md5": "1b3199ddd5487289abd487f97d3743cd"
 	},
 	{
 		"name": "vosk-model-br-0.7",
 		"type": "vosk",
 		"version": 7,
 		"lang": "br",
-		"url": "https://github.com/gweltou/patromou/raw/refs/heads/main/vosk-model-br-0.7.zip"
+		"url": "https://github.com/gweltou/patromou/raw/refs/heads/main/vosk-model-br-0.7.zip",
+		"md5": "5c59943928ff7ffe883e9f87f910fa56"
 	},
 	{
 		"name": "vosk-model-br-0.8",
 		"type": "vosk",
 		"version": 8,
 		"lang": "br",
-		"url": "https://github.com/gweltou/patromou/raw/refs/heads/main/vosk-model-br-0.8.zip"
+		"url": "https://github.com/gweltou/patromou/raw/refs/heads/main/vosk-model-br-0.8.zip",
+		"md5": "18270cfa6927acfc380f0af17f16511c"
 	},
 	{
 		"name": "vosk-model-br-0.9",
@@ -28,7 +31,8 @@
 		"description-br": "Ur patrom digejañ ar vouezh skañv ha prim evit ar brezhoneg",
 		"description-fr": "Modèle de reconnaissance vocale léger et rapide pour le breton",
 		"description-en": "A fast and lightweight speech-to-text model for breton",
-		"url": "https://github.com/gweltou/patromou/raw/refs/heads/main/vosk-model-br-0.9.zip"
+		"url": "https://github.com/gweltou/patromou/raw/refs/heads/main/vosk-model-br-0.9.zip",
+		"md5": "f73a2505c3526dd620ce20c7b44d9eef"
 	},
 	{
 		"name": "vosk-model-br-25.02",
@@ -39,6 +43,7 @@
 		"description-br": "Ur patrom digejañ ar vouezh skañv ha prim evit ar brezhoneg",
 		"description-fr": "Modèle de reconnaissance vocale léger et rapide pour le breton",
 		"description-en": "A fast and lightweight speech-to-text model for breton",
-		"url": "https://github.com/gweltou/patromou/raw/refs/heads/main/vosk-model-br-25.02.zip"
+		"url": "https://github.com/gweltou/patromou/raw/refs/heads/main/vosk-model-br-25.02.zip",
+		"md5": "1881eb891830987f6518369ffacafaa1"
 	}
 ]
