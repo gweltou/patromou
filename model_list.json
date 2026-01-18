@@ -8,7 +8,21 @@
 		"description-br": "Ur patrom digejañ ar vouezh skañv ha prim evit ar brezhoneg",
 		"description-fr": "Modèle de reconnaissance vocale léger et rapide pour le breton",
 		"description-en": "A fast and lightweight speech-to-text model for breton",
-		"url": "https://github.com/gweltou/patromou/raw/refs/heads/main/vosk-model-br-25.02.zip",
-		"md5": "1881eb891830987f6518369ffacafaa1"
+		"url": "https://github.com/gweltou/patromou/releases/download/vosk-models/vosk-model-br-25.02.zip",
+		"md5": "1881eb891830987f6518369ffacafaa1",
+		"sha256": "601fe6f0acffa680343a0a688762ecd273d898ac03e9dbbe5b68faa73f5b7c03"
+	},
+	{
+		"name": "vosk-model-br-26.01",
+		"short-name": "vosk-br-26.01",
+		"type": "vosk",
+		"version": 11,
+		"lang": "br",
+		"description-br": "Ur patrom digejañ ar vouezh skañv ha prim evit ar brezhoneg",
+		"description-fr": "Modèle de reconnaissance vocale léger et rapide pour le breton",
+		"description-en": "A fast and lightweight speech-to-text model for breton",
+		"url": "https://github.com/gweltou/patromou/releases/download/vosk-models/vosk-model-br-26.01.zip",
+		"md5": "b9891e6384dedc514c117ebecde65fe9",
+		"sha256": "78ad54c9c1db65f5248c6d77c39ebf69490a19ddaae6f202ff4c1176e199443e"
 	}
 ]
